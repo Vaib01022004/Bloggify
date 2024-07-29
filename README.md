@@ -9,6 +9,6 @@ We have used the Model View Controller (MVC) software design pattern to implemen
 
 
 ### 2.Data Abstraction Object
-On the other hand we have used Data Abstraction Object (DAO) another software design pattern which helped us to abstract away the implementation details of the data base and also provides us with an additional layer of security as it prevents users from directly interacting with the database. 
+On the other hand we have used Data Abstraction Object (DAO) another software design pattern which helped us to abstract away the implementation details of the data base and also provides us with an additional layer of security as it prevents users or the controller from directly interacting with the database. 
 
 ### The following diagram illustrates how the MVC architecture and DAO compliment each other and how theyre used. 
