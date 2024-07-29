@@ -30,6 +30,7 @@ On the other hand we have used Data Abstraction Object (DAO) another software de
 ### The following diagram illustrates how the MVC architecture and DAO compliment each other and how theyre used. 
 ![image](https://github.com/user-attachments/assets/26b74852-4182-41f4-b63c-c1e1fbac6bc9)
 
+
 Each jsp is associated with a page whose fucntion is obvious from the names like CreateBlog, logout, register etc. Details about the Backend implementation are provided in the readme file inside WEB-INF.
 
 A basic flow of the pages would be as follows : 
