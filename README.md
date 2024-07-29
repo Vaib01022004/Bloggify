@@ -1,13 +1,14 @@
 # Bloggify
 Personal Blog Website
-Bloggify is a Blog style personal journal web application created using by leveragaing java servlets for backend and database connectivity and JSPs for frontend. 
+
+Bloggify is a Blog style personal journal web application created by leveragaing java servlets for backend and database connectivity and JSPs for frontend. 
 
 ### Features : 
 
 1. Authentication provided using login and password.
 2. Persisting user state using sessions and cookies.
 3. Minimalistic UI Design.
-4. Journals using database connectivity.
+4. Permanent Storage of Journals using database connectivity.
 
 ### Technologies used : 
 
